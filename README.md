@@ -24,4 +24,10 @@ Hal ini menunjukkan masih terjadi error <b>
 lalu lakukan try again, ketika button run sudah bisa. maka kita coba run <br>
 
 6. HASIL PRAKTIKUM
-![EMPTY ACTIVITY](ss/hasil.jpg) <br>
+![EMPTY ACTIVITY](ss/hasil1.jpg) <br>
+tampilan bisa merubah, menghapus, dan lihat data <br>
+![EMPTY ACTIVITY](ss/hasil2.jpg) <br>
+tampilan saat tambah data
+![EMPTY ACTIVITY](ss/hasil3.jpg) <br>
+tampilan saat lihat data
+![EMPTY ACTIVITY](ss/hasil4.jpg) <br>
